@@ -9,7 +9,7 @@ I’m an aspiring **Business Intelligence Analyst** passionate about transformin
 
 📊 Featured Projects  
  
- 🔸 [Superstore Sales Analysis](#)  
+ 🔸 [Superstore Sales Analysis](https://github.com/tayyabbajwa1/Superstore_Sales_Analysis.git)  
  
 Analyzed regional & product performance using Excel and Power BI to uncover key sales drivers.  
 **Key Insights: **
