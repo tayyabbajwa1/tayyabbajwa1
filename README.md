@@ -34,7 +34,7 @@ Analyzed regional & product performance using Excel and Power BI to uncover key 
 
 ## 📫 Let’s Connect  
 - LinkedIn (www.linkedin.com/in/tayyab-bajwa-40243b37b)  
-- Email (muhammadtayyabfayzanbajwa)  
+- Email (muhammadtayyabfayzanbajwa@gmail.com)  
 
 ⭐ Always open to feedback, collaborations, and learning opportunities!
 <!--
