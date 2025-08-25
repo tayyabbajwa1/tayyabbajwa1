@@ -11,7 +11,7 @@ I’m an aspiring *Business Intelligence Analyst* passionate about transforming 
 
 ## 📊 Featured Projects  
 
-### 🔸 [Superstore Sales Analysis](#)  
+### 🔸 [Superstore Sales Analysis](https://github.com/tayyabbajwa1/Superstore_Sales_Analysis.git)  
 Analyzed regional & product performance using Excel and Power BI to uncover key sales drivers.  
 *Key Insights:*  
 - West Region → 31% Sales | 37% Profit  
@@ -33,8 +33,8 @@ Analyzed regional & product performance using Excel and Power BI to uncover key 
 
 
 ## 📫 Let’s Connect  
-- [LinkedIn](your-linkedin-url)  
-- [Email](mailto:your-email)  
+- [LinkedIn](www.linkedin.com/in/tayyab-bajwa-40243b37b)  
+- [Email](muhammadtayyabfayzanbajwa)  
 
 ⭐ Always open to feedback, collaborations, and learning opportunities!
 <!--
